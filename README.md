@@ -1,9 +1,13 @@
 # Input
 
 Input net: 192.168.40.240
+
 Input mask (0 - 32): 24
+
 Your network address: 192.168.40.0.
+
 Input first letter for ordering(eg. A->Z: A): A
+
 Input your subs(e.g (Z,118), (L,5), (B,1)): (Z,118), (L,5), (B,1)
 
 # Output
